@@ -1,0 +1,5 @@
+n = input("What's your name? ")
+print("Hi,", n )
+print(n, ",god blessed u")
+print("So pleased stay in touch")
+print(" ")

@@ -1,0 +1,18 @@
+1. use line command "type".
+Ex
+>>> type("hi momy")
+<class 'str'>
+>>> type(10)
+<class 'int'>
+>>> type(2.12)
+<class 'float'>
+
+Comment: just available in interactive mode.
+
+2. SyntaxError occurs when I name a variable hitting 1 of these 3 following mistakes:
+- Do not beggin variable's name with a letter,
+Ex: 3wolves, 2fight, *laithe,...
+- Include illegal characters,
+Ex: hi^^, 100%nature,...
+- Be an Python's Key word, conclude 29 words. Besides, "turtle" should not be used, too.
+Ex: and, if, while, not,...
