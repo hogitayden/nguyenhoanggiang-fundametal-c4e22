@@ -1,0 +1,19 @@
+1. We use function because we want:
+- Its resuability -> we can divide code into smaller parts, easy controlling
+- Its single entity -> in case code need to be fixed, just need 1 time reparing
+
+2. Call def + funtion_name(): () can have arguments/parameters or maybe not
+
+3. Call back funtion_name() to run the funtion
+
+4. Return is the command line which give value back to the variable.
+In step calling back funtion_name() we call back the return variable
+
+5. No, sometime we don't need Return cmd. For exp, some def just to print out something.
+
+6. Function arguments/parameters are the variable inside () which would be defined in consequent cmd
+
+7. Call import funtion_name() 
+or from funtion_name() import smaller_function()
+or from funtion_name() import * 
+
