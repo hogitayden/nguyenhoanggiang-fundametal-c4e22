@@ -1,0 +1,15 @@
+* {
+    font-family: 'Mali', cursive;
+}
+h2 {
+    color: #45e052;
+}
+
+#root {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://www.niemphat.vn/wp-content/uploads/2013/11/chan-ly-cuoc-song.jpg);
+    height: 100%;
+    width: 100%;
+}
+
